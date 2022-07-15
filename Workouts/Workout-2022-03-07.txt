@@ -1,0 +1,3 @@
+Name-|-MuscleTargeted-|-Weight-|-Sets-|-Reps
+-|-Squat-|-legs-|-90.0kg -|-5 sets -|-5 reps -|-
+-|-Deadlift-|-legs-|-100.0kg -|-3 sets -|-8 reps -|-

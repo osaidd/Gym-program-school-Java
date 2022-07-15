@@ -1,0 +1,4 @@
+Name-|-MuscleTargeted-|-Weight-|-Sets-|-Reps
+-|-Pullup-|-Back-|-23.0kg -|-4 sets -|-4 reps -|-
+-|-bench-|-chest-|-1999.0kg -|-4 sets -|-5 reps -|-
+-|-Bicep Curl-|-Bicep-|-25.0kg -|-5 sets -|-3 reps -|-

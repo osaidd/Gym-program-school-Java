@@ -1,0 +1,3 @@
+Name-|-MuscleTargeted-|-Weight-|-Sets-|-Reps
+-|-bench-|-chest-|-1999.0kg -|-3 sets -|-4 reps -|-
+-|-Row-|-Back-|-4001.0kg -|-45 sets -|-2 reps -|-
